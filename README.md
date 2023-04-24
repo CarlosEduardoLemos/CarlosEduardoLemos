@@ -1,8 +1,6 @@
-Ótimo! Aqui está um exemplo de README que você pode personalizar para o seu perfil do Github:
-
 # Olá! 👋
 
-Eu sou Carlos Eduardo Lemos, estudante de desenvolvimento de software e apaixonado por tecnologia. Aqui estão alguns destaques sobre mim:
+Eu sou Carlos Eduardo de Souza Lemos, estudante de desenvolvimento de software e apaixonado por Tecnologia e Games. Aqui estão alguns destaques sobre mim:
 
 - 🌱 Atualmente estou aprendendo Liguagem de programação com Python e Java.
 - 💬 Pergunte-me sobre desenvolvimento de software e tecnologia em geral.
