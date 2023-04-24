@@ -9,7 +9,7 @@ Eu sou Carlos Eduardo de Souza Lemos, estudante de desenvolvimento de software e
 
 ## Minhas estatísticas no Github
 
-![Estatísticas do Github de Carlos Eduardo Lemos](https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&count_private=true&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=transparent)
 
 ## Linguagens de programação e ferramentas
 
