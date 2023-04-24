@@ -13,7 +13,7 @@ Eu sou Carlos Eduardo de Souza Lemos, estudante de desenvolvimento de software e
 
 ## Linguagens de programação e ferramentas
 
-![Top Linguagens de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLemos&hide_progress=true)](https://github.com/CarlosEduardoLemos/github-readme-stats)
 
 ## Meus projetos recentes
 
