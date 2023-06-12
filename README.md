@@ -28,3 +28,5 @@ Ainda não fiz nenhuma contribuição, mas pretendo participar de projetos de c�
 ## Obrigado por visitar meu perfil!
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se quiser conversar sobre tecnologia ou colaborar em algum projeto.
+
+![Snake animation](https://github.com/CarlosEduardoLemos/CarlosEduardoLemos/blob/output/github-contribution-grid-snake.svg)
