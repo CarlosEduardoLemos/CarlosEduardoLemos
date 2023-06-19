@@ -2,7 +2,7 @@
 
 Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de software e apaixonado por Tecnologia e Games. Aqui estão alguns destaques sobre mim:
 
-- 🌱 Atualmente estou aprendendo Liguagem de programação com Python e Java.
+- 🌱 Atualmente estou aprendendo Liguagem de programação com Python e Javascript.
 - 💬 Pergunte-me sobre desenvolvimento de software e tecnologia em geral.
 - 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos) ou [Twitter](https://twitter.com/Kadu_Karlinhos).
 - ⚡ Curiosidade: Eu já desenvolvi jogos básicos do zero!.
