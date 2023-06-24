@@ -13,7 +13,7 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 
 ## Linguagens de programação e ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,vscode)](https://skillicons.dev)
 
 ## Meus projetos recentes
 
