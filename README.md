@@ -5,7 +5,7 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 - 🌱 Atualmente estou aprendendo Liguagem de programação com Python e Javascript.
 - 💬 Pergunte-me sobre desenvolvimento de software e tecnologia em geral.
 - 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos) ou [Twitter](https://twitter.com/Kadu_Karlinhos).
-- ⚡ Curiosidade: Amo esportes como Futebol Americano, Surf, Skate, Basquete e Esports!.
+- ⚡ Curiosidade: Gosto muito de escutar Podcast e o meu favorito é o NerdCast do Jovem Nerd. Amo esportes como Futebol Americano, Surf, Skate, Basquete e Esports!.
 
 ## Minhas estatísticas no Github
 
