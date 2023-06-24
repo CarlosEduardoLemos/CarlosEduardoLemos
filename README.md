@@ -21,7 +21,7 @@ Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. C
 
 | Projeto | Tecnologias | Dedicação | Conteúdos | Link |
 | ------- | ----------- | :-------: | :-------: | ---- |
-| Validação de Formulários em JavaScript | JavaScript | Baixa | Implementação de validações para campos de formulário de cadastro de conta-corrente. | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios) |
+| Validação de Formulários em JavaScript | JavaScript, HTML, CSS | Alta | Implementação de validações para campos de formulário de cadastro de conta-corrente. | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios) |
 | Efeito de Digitação | HTML, CSS, JavaScript | Baixa | Criação de um efeito visual de texto sendo digitado em tempo real. | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando) |
 | Mochila de Viagem Interativa | JavaScript, CSS | Média | Aplicação interativa que simula uma mochila de viagem, permitindo adicionar e remover itens. | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem) |
 | Curiosidades sobre o Sistema Operacional Android | HTML, CSS | Alta | Site com curiosidades e informações interessantes sobre o sistema operacional Android. | [GitHub](https://github.com/CarlosEduardoLemos/projeto-android) |
