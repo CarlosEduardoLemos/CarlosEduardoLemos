@@ -4,8 +4,13 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 
 - 🌱 Atualmente estou aprendendo e melhorando meus conhecimentos nas Liguagens de programação como Python, Java e Javascript.
 - 💬 Pergunte-me sobre desenvolvimento de software e tecnologia em geral.
-- 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos) ou [Twitter](https://twitter.com/Kadu_Karlinhos).
 - ⚡ Curiosidade: Gosto muito de escutar Podcast e o meu favorito é o NerdCast do Jovem Nerd. Amo esportes como Futebol Americano, MMA, Surf, Skate, Basquete e Esports!.
+- Como chegar até mim:
+<div align="center"> 
+<a href="https://www.instagram.com/kadu_carlinhos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:lemosecarlos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
 ## Minhas estatísticas no Github
 
