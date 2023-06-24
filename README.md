@@ -5,7 +5,7 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 - 🌱 Atualmente estou aprendendo Liguagem de programação com Python e Javascript.
 - 💬 Pergunte-me sobre desenvolvimento de software e tecnologia em geral.
 - 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos) ou [Twitter](https://twitter.com/Kadu_Karlinhos).
-- ⚡ Curiosidade: Amo esportes como Futebol Americano, Surf, Skate!.
+- ⚡ Curiosidade: Amo esportes como Futebol Americano, Surf, Skate, Basquete e Esports!.
 
 ## Minhas estatísticas no Github
 
@@ -16,8 +16,6 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,vscode)](https://skillicons.dev)
 
 ## Meus projetos recentes
-
-Aqui estão alguns dos meus projetos recentes:
 
 Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. Cada projeto é uma oportunidade de aprender, explorar e aprimorar minhas habilidades de programação. Abaixo estão os projetos listados juntamente com uma breve descrição de cada um, as tecnologias utilizadas em sua implementação e os respectivos links.
 
@@ -36,6 +34,12 @@ Ainda não fiz nenhuma contribuição, mas pretendo participar de projetos de c�
 
 ## Obrigado por visitar meu perfil!
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se quiser conversar sobre tecnologia ou colaborar em algum projeto.
+Se você estiver explorando o código, os projetos ou qualquer outra informação disponível aqui, sinta-se à vontade para entrar em contato comigo. Estou aberto(a) a discussões, sugestões e ideias para melhorar o conteúdo deste repositório. Acredito que o aprendizado seja um processo contínuo, e cada interação e perspectiva podem enriquecer nossa jornada tecnológica.
+
+Nós, entusiastas da tecnologia, formamos uma comunidade incrível e vibrante, e estou feliz em contribuir para o crescimento desse ecossistema. Espero que este perfil seja útil para você e que possamos colaborar em futuros projetos ou discussões.
+
+Mais uma vez, agradeço sinceramente por visitar meu perfil. Estou ansioso(a) para ouvir suas dúvidas, compartilhar conhecimentos e estabelecer conexões valiosas.
+
+Fique à vontade para explorar, aprender e compartilhar!
 
 ![Snake animation](https://github.com/CarlosEduardoLemos/CarlosEduardoLemos/blob/output/github-contribution-grid-snake.svg)
