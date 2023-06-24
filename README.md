@@ -19,7 +19,16 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 
 Aqui estão alguns dos meus projetos recentes:
 
-Ainda não fiz nenhuma projeto, mas pretendo participar de projetos de código aberto em breve.
+Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. Cada projeto é uma oportunidade de aprender, explorar e aprimorar minhas habilidades de programação. Abaixo estão os projetos listados juntamente com uma breve descrição de cada um, as tecnologias utilizadas em sua implementação e os respectivos links.
+
+| Projeto | Tecnologias | Dedicação | Conteúdos | Link |
+| ------- | ----------- | :-------: | :-------: | ---- |
+| Validação de Formulários em JavaScript | JavaScript | Baixa | Implementação de validações para campos de formulário de cadastro de conta-corrente. | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios) |
+| Efeito de Digitação | HTML, CSS, JavaScript | Baixa | Criação de um efeito visual de texto sendo digitado em tempo real. | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando) |
+| Mochila de Viagem Interativa | JavaScript, CSS | Média | Aplicação interativa que simula uma mochila de viagem, permitindo adicionar e remover itens. | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem) |
+| Curiosidades sobre o Sistema Operacional Android | HTML, CSS | Alta | Site com curiosidades e informações interessantes sobre o sistema operacional Android. | [GitHub](https://github.com/CarlosEduardoLemos/projeto-android) |
+
+Sinta-se à vontade para explorar cada projeto individualmente, verificar o código-fonte, as funcionalidades implementadas e os resultados obtidos. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Espero que você encontre esses projetos interessantes e úteis. 
 
 ## Contribuições
 
