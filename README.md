@@ -15,7 +15,10 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 
 ## <div align="center"> Minhas estatísticas no Github </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=transparent)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact&show_icons=true&theme=transparent">
+</div>
 
 ## <div align="center"> Linguagens de programação e ferramentas </div>
 
