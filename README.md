@@ -56,7 +56,7 @@ Ainda não fiz nenhuma contribuição, mas pretendo participar de projetos de c�
 
 ## <div align="center"> Obrigado por visitar meu perfil!</div>
 
-Se você estiver explorando o código, os projetos ou qualquer outra informação disponível aqui, sinta-se à vontade para entrar em contato comigo. Estou aberto(a) a discussões, sugestões e ideias para melhorar o conteúdo deste repositório. Acredito que o aprendizado seja um processo contínuo, e cada interação e perspectiva podem enriquecer nossa jornada tecnológica.
+Se você estiver explorando códigos, projetos ou qualquer outra informação disponível aqui, sinta-se à vontade para entrar em contato comigo. Estou aberto(a) a discussões, sugestões e ideias para melhorar o conteúdo deste repositório. Acredito que o aprendizado seja um processo contínuo, e cada interação e perspectiva podem enriquecer nossa jornada tecnológica.
 
 Nós, entusiastas da tecnologia, formamos uma comunidade incrível e vibrante, e estou feliz em contribuir para o crescimento desse ecossistema. Espero que este perfil seja útil para você e que possamos colaborar em futuros projetos ou discussões.
 
