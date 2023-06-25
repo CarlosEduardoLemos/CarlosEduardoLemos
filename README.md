@@ -1,4 +1,4 @@
-# Olá! 👋
+# <div align="center"> Olá! 👋 </div>
 
 Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de software e apaixonado por Tecnologia e Games. Aqui estão alguns destaques sobre mim:
 
@@ -13,11 +13,11 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 <a href = "https://twitter.com/Kadu_Karlinhos" target="_blank"> <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-## Minhas estatísticas no Github
+## <div align="center"> Minhas estatísticas no Github </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=transparent)
 
-## Linguagens de programação e ferramentas
+## <div align="center"> Linguagens de programação e ferramentas </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -33,7 +33,7 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
   
 </div>
 
-## Meus projetos recentes
+## <div align="center"> Meus projetos recentes </div>
 
 Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. Cada projeto é uma oportunidade de aprender, explorar e aprimorar minhas habilidades de programação. Abaixo estão os projetos listados juntamente com uma breve descrição de cada um, as tecnologias utilizadas em sua implementação e os respectivos links.
 
@@ -46,11 +46,11 @@ Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. C
 
 Sinta-se à vontade para explorar cada projeto individualmente, verificar o código-fonte, as funcionalidades implementadas e os resultados obtidos. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Espero que você encontre esses projetos interessantes e úteis. 
 
-## Contribuições
+## <div align="center"> Contribuições </div>
 
 Ainda não fiz nenhuma contribuição, mas pretendo participar de projetos de código aberto em breve.
 
-## Obrigado por visitar meu perfil!
+## <div align="center"> Obrigado por visitar meu perfil!</div>
 
 Se você estiver explorando o código, os projetos ou qualquer outra informação disponível aqui, sinta-se à vontade para entrar em contato comigo. Estou aberto(a) a discussões, sugestões e ideias para melhorar o conteúdo deste repositório. Acredito que o aprendizado seja um processo contínuo, e cada interação e perspectiva podem enriquecer nossa jornada tecnológica.
 
