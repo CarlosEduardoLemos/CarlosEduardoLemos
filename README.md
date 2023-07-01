@@ -1,6 +1,6 @@
 # <div align="center"> Olá! 👋 </div>
 
-Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de software e apaixonado por Tecnologia e Games. Aqui estão alguns destaques sobre mim:
+Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de software e apaixonado por Tecnologia, Games e Esportes. Aqui estão alguns destaques sobre mim:
 
 - 🌱 Atualmente estou aprendendo e melhorando meus conhecimentos nas Liguagens de programação como Python, Java e Javascript.
 - 💬 Pergunte-me sobre desenvolvimento de software e tecnologia em geral.
