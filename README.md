@@ -40,14 +40,20 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
 
 ## <div align="center"> Meus projetos recentes </div>
 
-Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. Cada projeto é uma oportunidade de aprender, explorar e aprimorar minhas habilidades de programação. Abaixo estão os projetos listados juntamente com uma breve descrição de cada um, as tecnologias utilizadas em sua implementação e os respectivos links.
+Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. Cada projeto é uma oportunidade de aprender, explorar e aprimorar minhas habilidades de programação. Abaixo estão os projetos listados juntamente com uma breve descrição de cada um, as tecnologias utilizadas em sua implementação e os respectivos links
 
-| Projeto | Tecnologias | Dedicação | Conteúdos | Link |
-| ------- | ----------- | :-------: | :-------: | ---- |
-| Validação de Formulários em JavaScript | JavaScript, HTML, CSS | Alta | Implementação de validações para campos de formulário de cadastro de conta-corrente. | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios) |
-| Efeito de Digitação | HTML, CSS | Baixa | Criação de um efeito visual de texto sendo digitado em tempo real. | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando) |
-| Mochila de Viagem Interativa | JavaScript, CSS | Média | Aplicação interativa que simula uma mochila de viagem, permitindo adicionar e remover itens. | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem) |
-| Curiosidades sobre o Sistema Operacional Android | HTML, CSS | Alta | Site com curiosidades e informações interessantes sobre o sistema operacional Android. | [GitHub](https://github.com/CarlosEduardoLemos/projeto-android) |
+
+| Projeto                                     | Tecnologias                     | Dedicação | Conteúdos                                                                      | Link                                                                                          |
+| ------------------------------------------- | ------------------------------- | --------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Validação de Formulários em JavaScript       | JavaScript, HTML, CSS          | Alta      | Implementação de validações para campos de formulário de cadastro de conta-corrente | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios)                     |
+| Efeito de Digitação                         | HTML, CSS                       | Baixa     | Criação de um efeito visual de texto sendo digitado em tempo real               | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando)                              |
+| Mochila de Viagem Interativa                 | JavaScript, CSS                 | Média     | Aplicação interativa que simula uma mochila de viagem, permitindo adicionar e remover itens | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem)                           |
+| Curiosidades sobre o Sistema Operacional Android | HTML, CSS                    | Alta      | Site com curiosidades e informações interessantes sobre o sistema operacional Android | [GitHub](https://github.com/CarlosEduardoLemos/projeto-android)                              |
+| Formulário de Login                          | HTML, CSS                       | Baixa     | Formulário simples de login com campos para nome de usuário, senha e botão "Entrar"  | [GitHub](https://github.com/CarlosEduardoLemos/Login-HTML)                                   |
+| Cordel Moderno                               | HTML, CSS                       | Média     | Projeto que apresenta e celebra os cordéis do poeta Milton Duarte                 | [GitHub](https://github.com/CarlosEduardoLemos/projeto-cordel)                                 |
+| Jogo de Adivinhação de Número com Reconhecimento de Voz | JavaScript, HTML, CSS | Média     | Jogo interativo onde os jogadores adivinham um número usando reconhecimento de voz  | [GitHub](https://github.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz)            |
+| Réplica da Logo da Netflix                   | HTML, CSS                       | Baixa     | Réplica da icônica logo da Netflix utilizando HTML e CSS                         | [GitHub](https://github.com/CarlosEduardoLemos/logo_Netflix)                                 |
+
 
 Sinta-se à vontade para explorar cada projeto individualmente, verificar o código-fonte, as funcionalidades implementadas e os resultados obtidos. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Espero que você encontre esses projetos interessantes e úteis. 
 
