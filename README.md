@@ -54,8 +54,8 @@ Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. C
 | Jogo de Adivinhação de Número com Reconhecimento de Voz | JavaScript, HTML, CSS | Média     | Jogo interativo onde os jogadores adivinham um número usando reconhecimento de voz  | [GitHub](https://github.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz)            |
 | Réplica da Logo da Netflix                   | HTML, CSS                       | Baixa     | Réplica da icônica logo da Netflix utilizando HTML e CSS                         | [GitHub](https://github.com/CarlosEduardoLemos/logo_Netflix)                                 |
 
+> Sinta-se à vontade para explorar cada projeto individualmente, verificar o código-fonte, as funcionalidades implementadas e os resultados obtidos. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Espero que você encontre esses projetos interessantes e úteis. E se desejar contribuir ou fazer melhorias em algum projeto, sua colaboração será muito bem-vinda!
 
-Sinta-se à vontade para explorar cada projeto individualmente, verificar o código-fonte, as funcionalidades implementadas e os resultados obtidos. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Espero que você encontre esses projetos interessantes e úteis. 
 
 ## <div align="center"> Contribuições </div>
 
