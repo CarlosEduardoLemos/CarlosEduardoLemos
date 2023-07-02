@@ -67,24 +67,7 @@ Sinta-se à vontade para explorar cada projeto individualmente, verificar o cód
 ## <div align="center"> Contribuições </div>
 
 <div align="justify">
-Tenho um grande interesse em contribuir para projetos de código aberto e estou entusiasmado com a ideia de fazer parte de uma comunidade de desenvolvedores colaborativos. Embora ainda não tenha realizado contribuições, estou ansioso para embarcar nessa jornada em breve.
-
-Como desenvolvedor, reconheço o valor de trabalhar em projetos abertos, onde posso compartilhar minhas habilidades, aprender com outros colaboradores experientes e contribuir para o desenvolvimento de software de forma coletiva. Acredito que a colaboração e o compartilhamento de conhecimento são fundamentais para o avanço tecnológico e a inovação.
-
-Embora esteja no início da minha jornada de contribuições em projetos de código aberto, estou dedicado a adquirir experiência prática, enfrentar desafios e expandir meu conhecimento de programação. Tenho uma base sólida de habilidades em desenvolvimento de software e estou disposto a aprender novas tecnologias e linguagens, se necessário, para contribuir de forma eficaz com os projetos em que me envolver.
-
-Neste momento, estou explorando projetos de código aberto relevantes para as minhas áreas de interesse e estou estudando suas documentações para entender melhor suas estruturas, fluxos de trabalho e padrões de codificação. Isso me ajudará a me familiarizar com os projetos e a encontrar a melhor maneira de contribuir com minhas habilidades e conhecimentos.
-
-Planejo começar com contribuições pequenas e simples, buscando problemas ou tarefas adequadas para minha experiência atual. Quero aproveitar essa oportunidade para aprender com os desenvolvedores experientes, receber feedback sobre minhas contribuições e aprimorar minhas habilidades técnicas e de colaboração.
-
-Além disso, estou aberto a participar de discussões e grupos de trabalho relacionados aos projetos em que me envolver. Acredito que a interação com a comunidade de código aberto é uma parte fundamental da experiência de contribuição. Estou ansioso para compartilhar ideias, receber orientações e fazer conexões valiosas com outros desenvolvedores interessados em tecnologia.
-
-No momento, estou me preparando para ingressar na comunidade de código aberto e contribuir ativamente para projetos relevantes. Estou confiante de que essa experiência será enriquecedora e me permitirá crescer como desenvolvedor. Estou comprometido em dedicar tempo e esforço para fazer contribuições significativas e ajudar a impulsionar o progresso tecnológico.
-
-Sinta-se à vontade para entrar em contato comigo se tiver sugestões de projetos de código aberto ou se quiser compartilhar sua experiência como colaborador. Estou aberto a conselhos, orientações e oportunidades para me envolver em projetos desafiadores.
-
-Agradeço sinceramente a oportunidade de compartilhar meu interesse em contribuir para projetos de código aberto. Espero poder fazer parte dessa comunidade vibrante em breve e contribuir para o crescimento e sucesso desses projetos. Juntos, podemos impulsionar a inovação e criar soluções tecnológicas que beneficiem a todos.
-</div>
+Tenho interesse em contribuir para projetos de código aberto e me envolver em uma comunidade de desenvolvedores colaborativos. Reconheço o valor de trabalhar em projetos abertos, compartilhar habilidades, aprender com outros colaboradores e contribuir para o desenvolvimento de software de forma coletiva. Estou em busca de experiência prática, expandindo meu conhecimento de programação e buscando contribuir de maneira eficaz em projetos relevantes. Atualmente, estou explorando projetos relevantes, estudando suas documentações e planejo começar com contribuições menores. Também estou aberto a participar de discussões e grupos de trabalho, acreditando que a interação com a comunidade é essencial. Estou me preparando para contribuir ativamente, dedicando tempo e esforço para fazer contribuições significativas e impulsionar o progresso tecnológico. Aceito sugestões de projetos e adoraria compartilhar experiências como colaborador. Agradeço a oportunidade de expressar meu interesse e espero fazer parte de comunidade em breve.</div>
 
 ## <div align="center"> Obrigado por visitar meu perfil!</div>
 
