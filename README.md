@@ -1,30 +1,30 @@
-# <div align="center"> Olá! 👋 </div>
+# <div align="center"> Hello! 👋 </div>
 
 <div align="justify">
-Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de software e apaixonado por Tecnologia, Games e Esportes. Aqui estão alguns destaques sobre mim:
+I am Carlos Eduardo de Souza Lemos, a software analysis and development graduate, and I am passionate about technology, games, and sports. Here are some highlights about me:
 
-- 🌱 Atualmente estou aprendendo e melhorando meus conhecimentos nas Liguagens de programação como Python, Java e Javascript.
-- 💬 Pergunte-me sobre desenvolvimento de software e tecnologia em geral.
-- ⚡ Curiosidade sobre mim: Gosto muito de escutar Podcast e o meu favorito é o NerdCast do Jovem Nerd. Amo esportes como Futebol Americano, MMA, Surf, Skate, Basquete e Esports!.
-- Como chegar até mim:
+- 🌱 I'm currently learning and improving my skills in programming languages such as Python, Java, and JavaScript.
+- 💬 Ask me about software development and technology in general.
+- ⚡ Fun fact: I really enjoy listening to podcasts, and my favorite one is NerdCast by Jovem Nerd. I love sports like American Football, MMA, Surfing, Skateboarding, Basketball, and Esports!
+- How to reach me:
 </div>
 
 <div align="center">
 <a href="https://www.instagram.com/carl0s_lem0s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:lemosecarlos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:lemosecarlos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "https://twitter.com/Kadu_Karlinhos" target="_blank"> <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/Kadu_Karlinhos" target="_blank"> <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://pt.stackoverflow.com/users/330536/carlos-lemos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </div>
 
-## <div align="center"> Minhas estatísticas no Github </div>
+## <div align="center"> My Github Statistics </div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact&show_icons=true&theme=transparent">
 </div>
 
-## <div align="center"> Linguagens de programação e ferramentas </div>
+## <div align="center"> Programming Languages and Tools </div>
 
 <div align="center">
   <a href="https://github.com/CarlosEduardoLemos">
@@ -41,44 +41,44 @@ Eu sou Carlos Eduardo de Souza Lemos, formado em Análise e desenvolvimento de s
   </a>
 </div>
 
-## <div align="center"> Meus projetos recentes </div>
+## <div align="center"> My Recent Projects </div>
 
 <div align="justify">
-Você encontrará uma coleção dos projetos que desenvolvi ao longo do tempo. Cada projeto é uma oportunidade de aprender, explorar e aprimorar minhas habilidades de programação. Abaixo estão os projetos listados juntamente com uma breve descrição de cada um, as tecnologias utilizadas em sua implementação e os respectivos links
+You will find a collection of projects I have developed over time. Each project is an opportunity to learn, explore, and enhance my programming skills. Below are the projects listed along with a brief description of each, the technologies used in their implementation, and their respective links.
 </div>
 
 
-| Projeto                                     | Tecnologias                     | Dedicação | Conteúdos                                                                      | Link                                                                                          |
-| ------------------------------------------- | ------------------------------- | --------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| Validação de Formulários em JavaScript       | JavaScript, HTML, CSS          | Alta      | Implementação de validações para campos de formulário de cadastro de conta-corrente | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios)                     |
-| Curiosidades sobre o Sistema Operacional Android | HTML, CSS                    | Alta      | Site com curiosidades e informações interessantes sobre o sistema operacional Android | [GitHub](https://github.com/CarlosEduardoLemos/projeto-android)                              |
-| Mochila de Viagem Interativa                 | JavaScript, CSS                 | Média     | Aplicação interativa que simula uma mochila de viagem, permitindo adicionar e remover itens | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem)                           |
-| Cordel Moderno                               | HTML, CSS                       | Média     | Projeto que apresenta e celebra os cordéis do poeta Milton Duarte                 | [GitHub](https://github.com/CarlosEduardoLemos/projeto-cordel)                                 |
-| Jogo de Adivinhação de Número com Reconhecimento de Voz | JavaScript, HTML, CSS | Média     | Jogo interativo onde os jogadores adivinham um número usando reconhecimento de voz  | [GitHub](https://github.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz)            |
-| Efeito de Digitação                         | HTML, CSS                       | Baixa     | Criação de um efeito visual de texto sendo digitado em tempo real               | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando)                              |
-| Formulário de Login                          | HTML, CSS                       | Baixa     | Formulário simples de login com campos para nome de usuário, senha e botão "Entrar"  | [GitHub](https://github.com/CarlosEduardoLemos/Login-HTML)                                   |
-| Réplica da Logo da Netflix                   | HTML, CSS                       | Baixa     | Réplica da icônica logo da Netflix utilizando HTML e CSS                         | [GitHub](https://github.com/CarlosEduardoLemos/logo_Netflix)                                 |
+| Project                                      | Technologies                   | Commitment | Contents                                                                       | Link                                                                                            |
+| -------------------------------------------- | ------------------------------- | ----------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| JavaScript Form Validation                   | JavaScript, HTML, CSS          | High        | Implementation of validations for registration form fields for a checking account | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios)                         |
+| Curiosities about the Android Operating System | HTML, CSS                      | High        | Website with interesting facts and information about the Android operating system | [GitHub](https://github.com/CarlosEduardoLemos/projeto-android)                                |
+| Interactive Travel Backpack                  | JavaScript, CSS                | Medium      | Interactive application simulating a travel backpack, allowing adding and removing items | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem)                             |
+| Modern Cordel                               | HTML, CSS                      | Medium      | Project that presents and celebrates the cordel literature by poet Milton Duarte  | [GitHub](https://github.com/CarlosEduardoLemos/projeto-cordel)                                   |
+| Number Guessing Game with Voice Recognition  | JavaScript, HTML, CSS          | Medium      | Interactive game where players guess a number using voice recognition              | [GitHub](https://github.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz)              |
+| Typing Effect                               | HTML, CSS                      | Low         | Creation of a visual effect of text being typed in real time                     | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando)                                 |
+| Login Form                                 | HTML, CSS                       | Low         | Simple login form with fields for username, password, and "Login" button           | [GitHub](https://github.com/CarlosEduardoLemos/Login-HTML)                                     |
+| Replica of the Netflix Logo                 | HTML, CSS                      | Low         | Replica of the iconic Netflix logo using HTML and CSS                            | [GitHub](https://github.com/CarlosEduardoLemos/logo_Netflix)                                   |
 
 
 <div align="justify">
-Sinta-se à vontade para explorar cada projeto individualmente, verificar o código-fonte, as funcionalidades implementadas e os resultados obtidos. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Espero que você encontre esses projetos interessantes e úteis. E se desejar contribuir ou fazer melhorias em algum projeto, sua colaboração será muito bem-vinda!
+Feel free to explore each project individually, check the source code, implemented features, and the results obtained. If you have any questions or suggestions, do not hesitate to get in touch. I hope you find these projects interesting and useful. And if you want to contribute or make improvements to any project, your collaboration will be very welcome!
 </div>
 
-## <div align="center"> Contribuições </div>
+## <div align="center"> Contributions </div>
 
 <div align="justify">
-Tenho interesse em contribuir para projetos de código aberto e me envolver em uma comunidade de desenvolvedores colaborativos. Reconheço o valor de trabalhar em projetos abertos, compartilhar habilidades, aprender com outros colaboradores e contribuir para o desenvolvimento de software de forma coletiva. Estou em busca de experiência prática, expandindo meu conhecimento de programação e buscando contribuir de maneira eficaz em projetos relevantes. Atualmente, estou explorando projetos relevantes, estudando suas documentações e planejo começar com contribuições menores. Também estou aberto a participar de discussões e grupos de trabalho, acreditando que a interação com a comunidade é essencial. Estou me preparando para contribuir ativamente, dedicando tempo e esforço para fazer contribuições significativas e impulsionar o progresso tecnológico. Aceito sugestões de projetos e adoraria compartilhar experiências como colaborador. Agradeço a oportunidade de expressar meu interesse e espero fazer parte de comunidade em breve.</div>
+I am interested in contributing to open-source projects and engaging in a community of collaborative developers. I recognize the value of working on open projects, sharing skills, learning from other contributors, and contributing to the collective development of software. I am seeking practical experience, expanding my programming knowledge, and aiming to contribute effectively to relevant projects. Currently, I am exploring relevant projects, studying their documentation, and planning to start with smaller contributions. I am also open to participating in discussions and working groups, believing that interaction with the community is essential. I am preparing myself to contribute actively, dedicating time and effort to make meaningful contributions and drive technological progress. I welcome project suggestions and would love to share experiences as a contributor. I appreciate the opportunity to express my interest and hope to become part of the community soon.</div>
 
-## <div align="center"> Obrigado por visitar meu perfil!</div>
+## <div align="center"> Thank you for visiting my profile! </div>
 
 <div align="justify">
-Se você estiver explorando códigos, projetos ou qualquer outra informação disponível aqui, sinta-se à vontade para entrar em contato comigo. Estou aberto(a) a discussões, sugestões e ideias para melhorar o conteúdo deste repositório. Acredito que o aprendizado seja um processo contínuo, e cada interação e perspectiva podem enriquecer nossa jornada tecnológica.
+If you are exploring code, projects, or any other information available here, feel free to get in touch with me. I am open to discussions, suggestions, and ideas to improve the content of this repository. I believe that learning is a continuous process, and each interaction and perspective can enrich our technological journey.
 
-Nós, entusiastas da tecnologia, formamos uma comunidade incrível e vibrante, e estou feliz em contribuir para o crescimento desse ecossistema. Espero que este perfil seja útil para você e que possamos colaborar em futuros projetos ou discussões.
+We, technology enthusiasts, form an incredible and vibrant community, and I am happy to contribute to the growth of this ecosystem. I hope this profile is helpful to you and that we can collaborate on future projects or discussions.
 
-Mais uma vez, agradeço sinceramente por visitar meu perfil. Estou ansioso(a) para ouvir suas dúvidas, compartilhar conhecimentos e estabelecer conexões valiosas.
+Once again, thank you sincerely for visiting my profile. I am looking forward to hearing your questions, sharing knowledge, and establishing valuable connections.
 
-Fique à vontade para explorar, aprender e compartilhar!
+Feel free to explore, learn, and share!
 </div>
 
-![Snake animation](https://github.com/CarlosEduardoLemos/CarlosEduardoLemos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarlosEduardoLemos/CarlosEduardoLemos/blob/output/github-contribution-grid-snake.svg)"
