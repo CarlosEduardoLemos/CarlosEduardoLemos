@@ -81,4 +81,4 @@ Once again, thank you sincerely for visiting my profile. I am looking forward to
 Feel free to explore, learn, and share!
 </div>
 
-![Snake animation](https://github.com/CarlosEduardoLemos/CarlosEduardoLemos/blob/output/github-contribution-grid-snake.svg)"
+![Snake animation](https://github.com/CarlosEduardoLemos/CarlosEduardoLemos/blob/output/github-contribution-grid-snake.svg)
