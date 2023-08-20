@@ -1,8 +1,5 @@
 # <div align="center"> Hello! 👋 </div>
-<div align="center">
-   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-</div>
+
 <div align="justify">
 I am Carlos Eduardo de Souza Lemos, a software analysis and development graduate, and I am passionate about technology, games, and sports. Here are some highlights about me:
 
@@ -82,4 +79,8 @@ We, technology enthusiasts, form an incredible and vibrant community, and I am h
 Once again, thank you sincerely for visiting my profile. I am looking forward to hearing your questions, sharing knowledge, and establishing valuable connections.
 
 Feel free to explore, learn, and share!
+</div>
+<div align="center">
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
