@@ -68,8 +68,17 @@ Feel free to explore each project individually, check the source code, implement
 
 ## <div align="center"> Contributions </div>
 
-<div align="justify">
-I am interested in contributing to open-source projects and engaging in a community of collaborative developers. I recognize the value of working on open projects, sharing skills, learning from other contributors, and contributing to the collective development of software. I am seeking practical experience, expanding my programming knowledge, and aiming to contribute effectively to relevant projects. Currently, I am exploring relevant projects, studying their documentation, and planning to start with smaller contributions. I am also open to participating in discussions and working groups, believing that interaction with the community is essential. I am preparing myself to contribute actively, dedicating time and effort to make meaningful contributions and drive technological progress. I welcome project suggestions and would love to share experiences as a contributor. I appreciate the opportunity to express my interest and hope to become part of the community soon.</div>
+- [Angular Playground Project](https://github.com/felipeAguiarCode/angular-playground/pull/1)
+  - Description: Created the README.md file and made minor code adjustments to improve readability.
+  - Commit: [8910941aeb2b5ab3f2411f9d460402a89d767bce](https://github.com/felipeAguiarCode/angular-playground/commit/8910941aeb2b5ab3f2411f9d460402a89d767bce)
+  - Date: August 2023
+
+- GitHub Profile README
+  - Description: Provided assistance in creating the README.md for the profile.
+  - Date: June 2023
+
+**Note:** <div align="justify"> I am committed to continuing my contributions to open-source projects and expanding my involvement in the developer community. I am pleased to share that more contributions are on the way. Even though they may be small, each one will contribute to the growth and development of quality software. I appreciate the opportunity to be a part of this collaborative community and look forward to future challenges!
+</div>
 
 ## <div align="center"> Thank you for visiting my profile! </div>
 
