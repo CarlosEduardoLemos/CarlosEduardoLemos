@@ -68,7 +68,7 @@ Feel free to explore each project individually, check the source code, implement
 
 ## <div align="center"> Contributions </div>
 
-- [Angular Playground Project](https://github.com/felipeAguiarCode/angular-playground/pull/1)
+- [Angular Playground Project](https://github.com/felipeAguiarCode/angular-playground)
   - Description: Created the README.md file and made minor code adjustments to improve readability.
   - Commit: [8910941aeb2b5ab3f2411f9d460402a89d767bce](https://github.com/felipeAguiarCode/angular-playground/commit/8910941aeb2b5ab3f2411f9d460402a89d767bce)
   - Date: August 2023
