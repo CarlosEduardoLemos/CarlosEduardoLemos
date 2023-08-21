@@ -77,8 +77,7 @@ Feel free to explore each project individually, check the source code, implement
   - Description: Provided assistance in creating the README.md for the profile.
   - Date: June 2023
 
-**Note:** <div align="justify"> I am committed to continuing my contributions to open-source projects and expanding my involvement in the developer community. I am pleased to share that more contributions are on the way. Even though they may be small, each one will contribute to the growth and development of quality software. I appreciate the opportunity to be a part of this collaborative community and look forward to future challenges!
-</div>
+**Note:** <div align="justify"> I am committed to continuing my contributions to open-source projects and expanding my involvement in the developer community. I am pleased to share that more contributions are on the way. Even though they may be small, each one will contribute to the growth and development of quality software. I appreciate the opportunity to be a part of this collaborative community and look forward to future challenges! </div>
 
 ## <div align="center"> Thank you for visiting my profile! </div>
 
