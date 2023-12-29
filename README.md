@@ -66,6 +66,7 @@ You will find a collection of projects I have developed over time. Each project 
 Feel free to explore each project individually, check the source code, implemented features, and the results obtained. If you have any questions or suggestions, do not hesitate to get in touch. I hope you find these projects interesting and useful. And if you want to contribute or make improvements to any project, your collaboration will be very welcome!
 </div>
 
+
 ## <div align="center"> Contributions </div>
 
 - [Angular Playground Project](https://github.com/felipeAguiarCode/angular-playground)
@@ -76,6 +77,11 @@ Feel free to explore each project individually, check the source code, implement
 - GitHub Profile README
   - Description: Provided assistance in creating the README.md for the profile.
   - Date: June 2023
+ 
+- [Cybersecurity Course Addition](https://github.com/Universidade-Livre/ciencia-da-computacao)
+  - Description: Added information about the cybersecurity course to the README.md.
+  - Commit: [41170b8437f400c910bad391ecaacb9217328a1e](https://github.com/Universidade-Livre/ciencia-da-computacao/commit/41170b8437f400c910bad391ecaacb9217328a1e)
+  - Date: December 29, 2023
 
 **Note:** <div align="justify"> I am committed to continuing my contributions to open-source projects and expanding my involvement in the developer community. I am pleased to share that more contributions are on the way. Even though they may be small, each one will contribute to the growth and development of quality software. I appreciate the opportunity to be a part of this collaborative community and look forward to future challenges! </div>
 
