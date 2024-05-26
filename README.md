@@ -3,7 +3,7 @@
 <div align="justify">
 I am Carlos Eduardo de Souza Lemos, a software analysis and development graduate, and I am passionate about technology, games, and sports. Here are some highlights about me:
 
-- 🌱 I'm currently learning and improving my skills in programming languages such as Python, Java, and JavaScript.
+- 🌱 I'm currently learning and improving my skills in programming languages such as Python, C# and JavaScript.
 - 💬 Ask me about software development and technology in general.
 - ⚡ Fun fact: I really enjoy listening to podcasts, and my favorite one is NerdCast by Jovem Nerd. Additionally, I'm proud to share that I recently received the academic distinction of receiving the 'Láurea Acadêmica' for my outstanding performance in the Analysis and Systems Development course. I'm truly passionate about sports like American Football, MMA, Surfing, Skateboarding, Basketball, and Esports!
 - How to reach me:
