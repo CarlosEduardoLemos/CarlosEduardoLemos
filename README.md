@@ -60,6 +60,8 @@ You will find a collection of projects I have developed over time. Each project 
 | Typing Effect                               | HTML, CSS                      | Low         | Creation of a visual effect of text being typed in real time                     | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando)                                 |
 | Login Form                                 | HTML, CSS                       | Low         | Simple login form with fields for username, password, and "Login" button           | [GitHub](https://github.com/CarlosEduardoLemos/Login-HTML)                                     |
 | Replica of the Netflix Logo                 | HTML, CSS                      | Low         | Replica of the iconic Netflix logo using HTML and CSS                            | [GitHub](https://github.com/CarlosEduardoLemos/logo_Netflix)                                   |
+| Contoso Pets Console Application            | C#                             | High        | Console application to manage pet adoption process with various functionalities   | [GitHub](https://github.com/CarlosEduardoLemos/PrimeirosPassos-C-Sharp/tree/main/AnimaisDestimacao) |
+
 
 
 <div align="justify">
