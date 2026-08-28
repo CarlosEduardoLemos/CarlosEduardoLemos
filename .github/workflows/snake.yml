@@ -17,7 +17,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate snake SVGs
         uses: Platane/snk@v3.1.0
@@ -27,15 +26,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files to output branch
+      - name: Push to output branch
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git checkout --orphan output || git checkout output
-          rm -rf ./* .gitignore .github
-          cp -r /home/runner/work/CarlosEduardoLemos/CarlosEduardoLemos/dist/* .
+          cd dist
+          git init
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
           git add .
-          git commit -m "Update contribution snake" || exit 0
-          git push origin output --force
+          git commit -m "Generate snake contribution grid"
+          git branch -M output
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push -u origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
