@@ -60,19 +60,19 @@ $ carlos --info
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEduardoLemos&theme=react&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=CarlosEduardoLemos&theme=react&hide_border=true" height="165" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact&theme=react&hide_border=true&langs_count=10" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact&theme=react&hide_border=true&langs_count=10" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoLemos&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
-> ⚠️ Se algum card acima aparecer quebrado, é quase sempre instabilidade temporária do serviço público `vercel.app` (rate limit). Veja a seção **"Corrigindo cards quebrados"** ao final para alternativas (self-host / fallback).
+> ⚠️ Se algum card acima aparecer quebrado, pode ser instabilidade temporária de um serviço público de terceiros (rate limit ou manutenção). A alternativa mais estável é usar uma instância alternativa ou self-host. Veja a seção **"Corrigindo cards quebrados"** ao final para detalhes.
 
 ---
 
@@ -146,11 +146,11 @@ Comprometido em ampliar contribuições open source como parte da construção d
 <details>
 <summary>🔧 <b>Corrigindo cards quebrados (GitHub Stats) — clique para expandir</b></summary>
 
-Os cards de `github-readme-stats.vercel.app` são um serviço público gratuito e ficam instáveis por rate limit. Três caminhos, do mais simples ao mais robusto:
+Os cards de estatísticas são serviços públicos gratuitos e podem falhar por rate limit, manutenção ou indisponibilidade temporária. Três caminhos, do mais simples ao mais robusto:
 
 1. **Trocar tema/parâmetros** — às vezes o cache resolve. Adicione `&cache_seconds=86400` na URL.
-2. **Usar instância alternativa da comunidade**, ex: `https://github-readme-stats-sigma-black.vercel.app/api?...` (buscar "github readme stats deploy alternativo" para achar uma instância ativa no momento).
-3. **Self-host (mais confiável a longo prazo)**: faça fork de [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) e deploy gratuito no seu próprio Vercel, apontando as URLs do README para seu próprio domínio.
+2. **Usar instância alternativa da comunidade** — por exemplo: `https://github-readme-stats-sigma-black.vercel.app/api?...` e `https://streak-stats.demolab.com/?user=SEU_USUARIO`.
+3. **Self-host (mais confiável a longo prazo)**: faça fork de [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) e deploy gratuito no seu próprio Vercel, apontando as URLs do README para o seu domínio.
 
 </details>
 
