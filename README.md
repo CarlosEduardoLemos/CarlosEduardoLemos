@@ -61,26 +61,26 @@ $ carlos --info
 
 <div align="center">
   <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+    <img src="https://img.shields.io/github/followers/CarlosEduardoLemos?label=Followers&logo=github&style=for-the-badge&color=00FF9C" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/CarlosEduardoLemos?tab=repositories">
+    <img src="https://img.shields.io/github/directory-file-count/CarlosEduardoLemos/CarlosEduardoLemos?label=Repos&logo=github&style=for-the-badge&color=00FF9C" alt="Public repositories" />
   </a>
   <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://streak-stats.demolab.com/?user=CarlosEduardoLemos&theme=react&hide_border=true" height="180" alt="GitHub Streak" />
+    <img src="https://img.shields.io/github/stars/CarlosEduardoLemos?label=Stars&logo=github&style=for-the-badge&color=00FF9C" alt="GitHub stars" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact&theme=react&hide_border=true&langs_count=10" height="180" alt="Top Languages" />
+    <img src="https://img.shields.io/badge/Profile-Open%20on%20GitHub-181717?logo=github&style=for-the-badge" alt="Open GitHub profile" />
+  </a>
+  <a href="https://github.com/CarlosEduardoLemos?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Portfolio-00FF9C?style=for-the-badge&logo=githubactions&logoColor=black" alt="Portfolio projects" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoLemos&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&color=00FF9C&line=00FF9C&point=FFFFFF" alt="Activity Graph" width="95%" />
-  </a>
-</div>
-
-> ⚠️ Se algum card acima aparecer quebrado, pode ser instabilidade temporária de um serviço público de terceiros (rate limit, manutenção ou indisponibilidade). A alternativa mais estável é usar uma instância alternativa ou self-host. Veja a seção **"Corrigindo cards quebrados"** ao final para detalhes.
+> ✅ A seção acima usa badges estáveis da GitHub API/Shields, evitando falhas comuns de serviços externos e mantendo o perfil funcional mesmo quando os cards de terceiros ficam indisponíveis.
 
 ---
 
@@ -154,13 +154,13 @@ Comprometido em ampliar contribuições open source como parte da construção d
 <details>
 <summary>🔧 <b>Corrigindo cards quebrados (GitHub Stats) — clique para expandir</b></summary>
 
-Os cards de estatísticas são serviços públicos gratuitos e podem falhar por rate limit, manutenção ou indisponibilidade temporária. Três caminhos, do mais simples ao mais robusto:
+Os cards de estatísticas de terceiros podem falhar por rate limit, manutenção ou indisponibilidade temporária. Se isso acontecer, a solução mais estável é usar badges do GitHub/Shields em vez de depender de serviços externos.
 
-1. **Trocar tema/parâmetros** — às vezes o cache resolve. Adicione `&cache_seconds=86400` na URL para reduzir falhas recorrentes.
+1. **Trocar para badges estáveis** — use `img.shields.io` e endpoints oficiais do GitHub para seguidores, estrelas e repositórios.
 2. **Usar instância alternativa da comunidade** — por exemplo: `https://github-readme-stats-sigma-black.vercel.app/api?...` e `https://streak-stats.demolab.com/?user=SEU_USUARIO`.
 3. **Self-host (mais confiável a longo prazo)** — faça fork de [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) e faça deploy gratuito no seu próprio Vercel, apontando as URLs do README para o seu domínio.
 
-> 💡 Em geral, a melhor combinação é manter os cards em uma instância estável e usar cache com `cache_seconds=86400` para evitar quebras visuais no perfil.
+> 💡 Para este perfil, optei pela opção 1 por ser a mais confiável e a que mantém o README funcionando sem depender de um único serviço externo.
 
 </details>
 
