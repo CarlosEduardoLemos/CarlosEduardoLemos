@@ -1,105 +1,164 @@
-# <div align="center"> Hello! 👋 </div>
+<div align="center">
 
-<div align="justify">
-I am Carlos Eduardo de Souza Lemos, a software analysis and development graduate, and I am passionate about technology, games, and sports. Here are some highlights about me:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Carlos+Eduardo+%F0%9F%91%8B;Software+Developer+%7C+IT+Support+%7C+Cybersecurity;Building+secure+and+scalable+solutions;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
-- 🌱 I'm currently learning and improving my skills in programming languages such as Python, C# and JavaScript.
-- 💬 Ask me about software development and technology in general.
-- ⚡ Fun fact: I really enjoy listening to podcasts, and my favorite one is NerdCast by Jovem Nerd. Additionally, I'm proud to share that I recently received the academic distinction of receiving the 'Láurea Acadêmica' for my outstanding performance in the Analysis and Systems Development course. I'm truly passionate about sports like American Football, MMA, Surfing, Skateboarding, Basketball, and Esports!
-- How to reach me:
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarlosEduardoLemos&label=Profile%20Views&color=00FF9C&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/"><img src="https://img.shields.io/badge/status-open_to_dev_roles-00FF9C?style=flat-square" /></a>
+</p>
+
+---
+
+### `whoami`
+
+```bash
+$ carlos --info
+
+>> Name:        Carlos Eduardo de Souza Lemos
+>> Role:        IT Support Analyst — nationwide judicial systems support (Brazil)
+>> Transition:  Moving into Software Development
+>> Background:  Software Engineering (undergrad) + Information Security (postgrad)
+>> Focus:       Python · Flask · C# · Security-oriented Development · CTF
+>> Fun fact:    Láurea Acadêmica graduate | NerdCast listener | Esports fan
+```
+
+- 🔭 Currently building a **development portfolio** with Python/Flask projects focused on security (RBAC, auth, vulnerability management).
+- 🛡️ Working daily with **Keycloak, MFA, digital certificates (A3/token/smartcard)** and access control in large-scale judicial systems used across Brazil (PJe, SISPERJUD, BNMP).
+- 💻 Currently studying **C#/.NET** in depth, alongside my day-to-day Python work.
+- 🚩 Diving into **CTF competitions** (Hack The Box, TryHackMe, CTFtime) as part of my security path.
+- 🌱 Currently sharpening: C#/.NET, Python, JavaScript/React, SQL.
+- 💬 Ask me about IT support at scale, judicial tech systems, or breaking into dev from a support background.
+- 📫 Reach me: **lemosecarlos@gmail.com**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosEduardoLemos)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CarlosEduardoLemos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemosecarlos@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kadu_Karlinhos)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carl0s_lem0s/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/330536/carlos-lemos)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CarlosEduardoLemos/CarlosEduardoLemos/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif dark mode" />
+  <img src="https://raw.githubusercontent.com/CarlosEduardoLemos/CarlosEduardoLemos/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake gif light mode" />
+</div>
+
+> Gerado automaticamente via GitHub Action (`Platane/snk`) — veja o passo a passo de configuração no final deste README.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEduardoLemos&theme=react&hide_border=true" height="165" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<a href="https://github.com/CarlosEduardoLemos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/a>
-<a href="https://gitlab.com/CarlosEduardoLemos" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/a>
-<a href="https://www.instagram.com/carl0s_lem0s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="mailto:lemosecarlos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://twitter.com/Kadu_Karlinhos" target="_blank"> <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://pt.stackoverflow.com/users/330536/carlos-lemos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact&theme=react&hide_border=true&langs_count=10" height="165" alt="Top Languages"/>
 </div>
-
-## <div align="center"> My Github Statistics </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoLemos&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLemos&layout=compact&show_icons=true&theme=transparent">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoLemos&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
-## <div align="center"> Programming Languages and Tools </div>
+> ⚠️ Se algum card acima aparecer quebrado, é quase sempre instabilidade temporária do serviço público `vercel.app` (rate limit). Veja a seção **"Corrigindo cards quebrados"** ao final para alternativas (self-host / fallback).
+
+---
+
+## 🛠️ Tech Stack
+
+**Linguagens & Core**
+
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libs**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Security & Identity**
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+
+**Infra & Tools**
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Projeto | Stack | Descrição | Link |
+|---|---|---|---|
+| 🐾 Contoso Pets Console App | C# | Aplicação console para gestão de processo de adoção de animais | [GitHub](https://github.com/CarlosEduardoLemos/PrimeirosPassos-C-Sharp/tree/main/AnimaisDestimacao) |
+| 📝 JS Form Validation | JavaScript, HTML, CSS | Validações de campos de formulário de cadastro para conta corrente | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios) |
+| 🎒 Interactive Travel Backpack | JavaScript, CSS | Simulação interativa de mochila de viagem com adição/remoção de itens | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem) |
+| 🎙️ Voice-Recognition Number Game | JavaScript, HTML, CSS | Jogo de adivinhação de números usando reconhecimento de voz | [GitHub](https://github.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz) |
+
+---
+
+## 🤝 Open Source Contributions
+
+- **[Angular Playground](https://github.com/felipeAguiarCode/angular-playground)** — README.md e ajustes de legibilidade no código · [commit](https://github.com/felipeAguiarCode/angular-playground/commit/8910941aeb2b5ab3f2411f9d460402a89d767bce) · Ago/2023
+- **[Ciência da Computação — Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)** — Inclusão de conteúdo sobre curso de Cybersecurity · [commit](https://github.com/Universidade-Livre/ciencia-da-computacao/commit/41170b8437f400c910bad391ecaacb9217328a1e) · Dez/2023
+- GitHub Profile README (auxílio) — Jun/2023
+
+Comprometido em ampliar contribuições open source como parte da construção de portfólio e presença técnica.
+
+---
 
 <div align="center">
-  <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  </a>
+
+### Obrigado pela visita! Feedbacks e conexões são sempre bem-vindos 🚀
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="180em"/>
+
 </div>
 
-## <div align="center"> My Recent Projects </div>
+---
 
-<div align="justify">
-You will find a collection of projects I have developed over time. Each project is an opportunity to learn, explore, and enhance my programming skills. Below are the projects listed along with a brief description of each, the technologies used in their implementation, and their respective links.
-</div>
+<details>
+<summary>🔧 <b>Corrigindo cards quebrados (GitHub Stats) — clique para expandir</b></summary>
 
+Os cards de `github-readme-stats.vercel.app` são um serviço público gratuito e ficam instáveis por rate limit. Três caminhos, do mais simples ao mais robusto:
 
-| Project                                      | Technologies                   | Commitment | Contents                                                                       | Link                                                                                            |
-| -------------------------------------------- | ------------------------------- | ----------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| Contoso Pets Console Application            | C#                             | High        | Console application to manage pet adoption process with various functionalities   | [GitHub](https://github.com/CarlosEduardoLemos/PrimeirosPassos-C-Sharp/tree/main/AnimaisDestimacao) |
-| JavaScript Form Validation                   | JavaScript, HTML, CSS          | High        | Implementation of validations for registration form fields for a checking account | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios)                         |
-| Curiosities about the Android Operating System | HTML, CSS                      | High        | Website with interesting facts and information about the Android operating system | [GitHub](https://github.com/CarlosEduardoLemos/projeto-android)                                |
-| Interactive Travel Backpack                  | JavaScript, CSS                | Medium      | Interactive application simulating a travel backpack, allowing adding and removing items | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem)                             |
-| Modern Cordel                               | HTML, CSS                      | Medium      | Project that presents and celebrates the cordel literature by poet Milton Duarte  | [GitHub](https://github.com/CarlosEduardoLemos/projeto-cordel)                                   |
-| Number Guessing Game with Voice Recognition  | JavaScript, HTML, CSS          | Medium      | Interactive game where players guess a number using voice recognition              | [GitHub](https://github.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz)              |
-| Typing Effect                               | HTML, CSS                      | Low         | Creation of a visual effect of text being typed in real time                     | [GitHub](https://github.com/CarlosEduardoLemos/Efeito_Digitando)                                 |
-| Login Form                                 | HTML, CSS                       | Low         | Simple login form with fields for username, password, and "Login" button           | [GitHub](https://github.com/CarlosEduardoLemos/Login-HTML)                                     |
-| Replica of the Netflix Logo                 | HTML, CSS                      | Low         | Replica of the iconic Netflix logo using HTML and CSS                            | [GitHub](https://github.com/CarlosEduardoLemos/logo_Netflix)                                   |
+1. **Trocar tema/parâmetros** — às vezes o cache resolve. Adicione `&cache_seconds=86400` na URL.
+2. **Usar instância alternativa da comunidade**, ex: `https://github-readme-stats-sigma-black.vercel.app/api?...` (buscar "github readme stats deploy alternativo" para achar uma instância ativa no momento).
+3. **Self-host (mais confiável a longo prazo)**: faça fork de [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) e deploy gratuito no seu próprio Vercel, apontando as URLs do README para seu próprio domínio.
 
+</details>
 
+<details>
+<summary>🐍 <b>Configurando o Snake Game — clique para expandir</b></summary>
 
+1. Crie o arquivo `.github/workflows/snake.yml` no seu repositório `CarlosEduardoLemos/CarlosEduardoLemos` (fornecido junto com este README).
+2. Faça commit e push — a Action roda automaticamente todo dia (`schedule: cron`) e gera os SVGs no branch `output`.
+3. As tags `<img>` já apontam para `.../output/github-contribution-grid-snake-dark.svg` e a versão light — não precisa alterar nada no README depois de configurar.
 
-<div align="justify">
-Feel free to explore each project individually, check the source code, implemented features, and the results obtained. If you have any questions or suggestions, do not hesitate to get in touch. I hope you find these projects interesting and useful. And if you want to contribute or make improvements to any project, your collaboration will be very welcome!
-</div>
-
-
-## <div align="center"> Contributions </div>
-
-- [Angular Playground Project](https://github.com/felipeAguiarCode/angular-playground)
-  - Description: Created the README.md file and made minor code adjustments to improve readability.
-  - Commit: [8910941aeb2b5ab3f2411f9d460402a89d767bce](https://github.com/felipeAguiarCode/angular-playground/commit/8910941aeb2b5ab3f2411f9d460402a89d767bce)
-  - Date: August 2023
-
-- GitHub Profile README
-  - Description: Provided assistance in creating the README.md for the profile.
-  - Date: June 2023
- 
-- [Cybersecurity Course Addition](https://github.com/Universidade-Livre/ciencia-da-computacao)
-  - Description: Added information about the cybersecurity course to the README.md.
-  - Commit: [41170b8437f400c910bad391ecaacb9217328a1e](https://github.com/Universidade-Livre/ciencia-da-computacao/commit/41170b8437f400c910bad391ecaacb9217328a1e)
-  - Date: December 29, 2023
-
-**Note:** <div align="justify"> I am committed to continuing my contributions to open-source projects and expanding my involvement in the developer community. I am pleased to share that more contributions are on the way. Even though they may be small, each one will contribute to the growth and development of quality software. I appreciate the opportunity to be a part of this collaborative community and look forward to future challenges! </div>
-
-## <div align="center"> Thank you for visiting my profile! </div>
-
-<div align="justify">
-If you are exploring code, projects, or any other information available here, feel free to get in touch with me. I am open to discussions, suggestions, and ideas to improve the content of this repository. I believe that learning is a continuous process, and each interaction and perspective can enrich our technological journey.
-
-We, technology enthusiasts, form an incredible and vibrant community, and I am happy to contribute to the growth of this ecosystem. I hope this profile is helpful to you and that we can collaborate on future projects or discussions.
-
-Once again, thank you sincerely for visiting my profile. I am looking forward to hearing your questions, sharing knowledge, and establishing valuable connections.
-
-Feel free to explore, learn, and share!
-</div>
-<div align="center">
-   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-</div>
+</details>
