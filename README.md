@@ -24,13 +24,17 @@ $ carlos --info
 >> Fun fact:    Láurea Acadêmica graduate | NerdCast listener | Esports fan
 ```
 
-- 🔭 Currently building a **development portfolio** with Python/Flask projects focused on security (RBAC, auth, vulnerability management).
-- 🛡️ Working daily with **Keycloak, MFA, digital certificates (A3/token/smartcard)** and access control in large-scale judicial systems used across Brazil (PJe, SISPERJUD, BNMP).
-- 💻 Currently studying **C#/.NET** in depth, alongside my day-to-day Python work.
-- 🚩 Diving into **CTF competitions** (Hack The Box, TryHackMe, CTFtime) as part of my security path.
-- 🌱 Currently sharpening: C#/.NET, Python, JavaScript/React, SQL.
-- 💬 Ask me about IT support at scale, judicial tech systems, or breaking into dev from a support background.
-- 📫 Reach me: **lemosecarlos@gmail.com**
+<div align="center">
+  <div style="max-width: 980px;">
+    <p align="justify">🔭 Currently building a <strong>development portfolio</strong> with Python/Flask projects focused on security (RBAC, auth, vulnerability management).</p>
+    <p align="justify">🛡️ Working daily with <strong>Keycloak, MFA, digital certificates (A3/token/smartcard)</strong> and access control in large-scale judicial systems used across Brazil (PJe, SISPERJUD, BNMP).</p>
+    <p align="justify">💻 Currently studying <strong>C#/.NET</strong> in depth, alongside my day-to-day Python work.</p>
+    <p align="justify">🚩 Diving into <strong>CTF competitions</strong> (Hack The Box, TryHackMe, CTFtime) as part of my security path.</p>
+    <p align="justify">🌱 Currently sharpening: C#/.NET, Python, JavaScript/React, SQL.</p>
+    <p align="justify">💬 Ask me about IT support at scale, judicial tech systems, or breaking into dev from a support background.</p>
+    <p align="justify">📫 Reach me: <strong>lemosecarlos@gmail.com</strong></p>
+  </div>
+</div>
 
 <div align="center">
 
