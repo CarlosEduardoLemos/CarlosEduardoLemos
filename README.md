@@ -61,26 +61,29 @@ $ carlos --info
 
 <div align="center">
   <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://img.shields.io/github/followers/CarlosEduardoLemos?label=Followers&logo=github&style=for-the-badge&color=00FF9C" alt="GitHub followers" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosEduardoLemos&theme=github_dark" width="780" alt="Profile details" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/CarlosEduardoLemos?tab=repositories">
-    <img src="https://img.shields.io/github/directory-file-count/CarlosEduardoLemos/CarlosEduardoLemos?label=Repos&logo=github&style=for-the-badge&color=00FF9C" alt="Public repositories" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosEduardoLemos&theme=github_dark" height="220" alt="Repos per language" />
   </a>
   <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://img.shields.io/github/stars/CarlosEduardoLemos?label=Stars&logo=github&style=for-the-badge&color=00FF9C" alt="GitHub stars" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosEduardoLemos&theme=github_dark" height="220" alt="Most commit language" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/CarlosEduardoLemos">
-    <img src="https://img.shields.io/badge/Profile-Open%20on%20GitHub-181717?logo=github&style=for-the-badge" alt="Open GitHub profile" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosEduardoLemos&theme=github_dark" height="190" alt="GitHub stats" />
   </a>
-  <a href="https://github.com/CarlosEduardoLemos?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Portfolio-00FF9C?style=for-the-badge&logo=githubactions&logoColor=black" alt="Portfolio projects" />
+  <a href="https://github.com/CarlosEduardoLemos">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosEduardoLemos&theme=github_dark&utcOffset=-3" height="190" alt="Productive time" />
   </a>
 </div>
 
-> ✅ A seção acima usa badges estáveis da GitHub API/Shields, evitando falhas comuns de serviços externos e mantendo o perfil funcional mesmo quando os cards de terceiros ficam indisponíveis.
+> ✅ A seção acima usa gráficos mais visuais e mantém um visual forte sem depender dos cards antigos que costumam quebrar por rate limit ou indisponibilidade.
 
 ---
 
