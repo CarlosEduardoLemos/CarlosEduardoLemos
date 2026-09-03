@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Carlos+Eduardo+%F0%9F%91%8B;Software+Developer+%7C+IT+Support+%7C+Cybersecurity;Building+secure+and+scalable+solutions;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Carlos+Eduardo+%F0%9F%91%8B;Software+Developer+%7C+IT+Support+%7C+Cybersecurity;Building+secure+and+scalable+solutions;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 </div>
 
@@ -108,7 +108,6 @@ $ carlos --info
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Security & Identity**
 
