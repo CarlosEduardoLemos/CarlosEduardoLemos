@@ -130,6 +130,7 @@ $ carlos --info
 
 | Projeto | Stack | Descrição | Link |
 |---|---|---|---|
+| ⏱️ Time Tracker — Projeto Bay Area | C# .NET 8, Python FastAPI, React, PostgreSQL | Plataforma de monitoramento autorizado de atividades e análise de produtividade, desenvolvida em equipe no Projeto Bay Area | [GitHub](https://github.com/fabrica-bayarea/Projeto-Bay-Area) |
 | 🐾 Contoso Pets Console App | C# | Aplicação console para gestão de processo de adoção de animais | [GitHub](https://github.com/CarlosEduardoLemos/PrimeirosPassos-C-Sharp/tree/main/AnimaisDestimacao) |
 | 📝 JS Form Validation | JavaScript, HTML, CSS | Validações de campos de formulário de cadastro para conta corrente | [GitHub](https://github.com/CarlosEduardoLemos/JS-Validando-Formularios) |
 | 🎒 Interactive Travel Backpack | JavaScript, CSS | Simulação interativa de mochila de viagem com adição/remoção de itens | [GitHub](https://github.com/CarlosEduardoLemos/Mochila_De_Viagem) |
