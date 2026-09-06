@@ -152,7 +152,7 @@ Comprometido em ampliar contribuições open source como parte da construção d
 
 ### Obrigado pela visita! Feedbacks e conexões são sempre bem-vindos 🚀
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="180em"/>
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="480em"/>
 
 </div>
 
