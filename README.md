@@ -1,333 +1,99 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Carlos+Eduardo+%F0%9F%91%8B;Software+Developer+%7C+IT+Support+Background;Python+%C2%B7+Flask+%C2%B7+React+%C2%B7+JavaScript;Security-Oriented+Development;Always+learning.+Always+building." alt="Typing SVG" />
+# Carlos Eduardo de Souza Lemos
 
-<br>
+### IT Support Analyst → Software Development
 
-<a href="https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/">
-  <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Eduardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+Building practical web applications with a security-oriented mindset.
 
-<a href="mailto:lemosecarlos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/CarlosEduardoLemos">
-  <img src="https://img.shields.io/badge/GitHub-CarlosEduardoLemos-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/">LinkedIn</a>
+·
+<a href="mailto:lemosecarlos@gmail.com">Email</a>
+·
+<a href="https://github.com/CarlosEduardoLemos">GitHub</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=CarlosEduardoLemos&label=Profile%20Views&color=00FF9C&style=flat-square" alt="Profile Views">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Application%20Security-1F2937?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Application Security">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-```bash
-$ carlos --info
+I work in **IT Support** and am transitioning toward **Software Development**. My current
+focus is building maintainable applications with Python, Flask, React and JavaScript,
+while strengthening my knowledge of secure software development and application security.
 
-> Name:        Carlos Eduardo de Souza Lemos
-> Current:     IT Support Analyst
-> Direction:   Software Development
-> Focus:       Python · Flask · React · Security-Oriented Development
-> Learning:    C#/.NET · Application Security · CTF
-> Background:  Software Engineering + Information Security
-> Location:    Brazil
-```
-
-I currently work in **IT Support**, supporting nationwide judicial systems in Brazil, while transitioning my career toward **Software Development**.
-
-My development work is currently focused on building practical applications using **Python/Flask** and **React**, with special attention to:
-
-* clean and maintainable code;
-* API integration;
-* authentication and authorization;
-* role-based access control;
-* automated testing;
-* responsive interfaces;
-* accessibility;
-* application security.
-
-My professional support background also gives me practical exposure to environments involving **Keycloak, MFA, digital certificates and access control**.
-
-I am currently expanding my knowledge in **C#/.NET**, secure software development and cybersecurity labs.
-
----
-
-# 🚀 Featured Projects
-
-## 🛡️ CyberControl
-
-### Vulnerability Management System
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-
-Security-oriented web application for managing **IT assets and vulnerabilities**.
-
-### Highlights
+My support background includes practical exposure to **Keycloak, MFA, digital
+certificates and access control**. I am currently learning **C#/.NET** and exploring
+security labs and CTF challenges.
 
-* authentication and password hashing;
-* administrator and analyst roles;
-* Role-Based Access Control — RBAC;
-* IT asset management;
-* vulnerability registration;
-* CVSS severity classification;
-* dashboard and filters;
-* evidence upload;
-* PDF report generation;
-* CISA KEV integration;
-* NVD integration;
-* external API failure handling;
-* caching and deduplication;
-* automated tests with `unittest`.
+> This profile distinguishes professional experience, collaborative work and learning
+> projects instead of treating every repository as production experience.
 
-### Architecture
+## Technical focus
 
-```text
-CyberControl
-│
-├── Authentication
-├── Asset Management
-├── Vulnerability Management
-├── Dashboard
-│
-├── CISA KEV ─┐
-│             ├── External vulnerability sources
-├── NVD ──────┘
-│
-└── SQLite Database
-```
+| Area | Technologies and practices |
+| --- | --- |
+| Languages | Python, JavaScript, HTML, CSS |
+| Web | Flask, React, Vite, Tailwind CSS, Bootstrap |
+| Data | SQLite, SQL |
+| APIs and security | REST APIs, authentication, authorization, RBAC, application security |
+| Quality | Python `unittest`, Vitest, Testing Library, responsive and accessible interfaces |
+| Tools | Git, GitHub, Linux, VS Code |
 
-🔗 **Repository**
+**Currently learning:** C#, .NET, secure software development and cybersecurity labs.
 
-https://github.com/CarlosEduardoLemos/CyberControl
+## Featured work
 
----
+### [CyberControl](https://github.com/CarlosEduardoLemos/CyberControl)
 
-## ⏱️ TimeTracker — Bay Area
+Security-oriented, server-rendered Flask application for managing IT assets and
+vulnerabilities.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
+- Asset and vulnerability management with CVE, CWE, CVSS and contextual risk.
+- Authentication, password hashing, CSRF protection, RBAC and audit logging.
+- Dashboard with operational metrics, SLA, MTTR and backlog views.
+- CISA KEV and NVD integrations with caching, plus protected evidence uploads and PDF
+  reports.
+- Tested and maintained with CI, Ruff, Bandit, pip-audit and CodeQL.
 
-Open-source team project developed through the **Bay Area program**.
+**Stack:** Python · Flask · Jinja2 · Bootstrap · SQLite
 
-My contribution is focused primarily on the **frontend**.
+### [TimeTracker](https://github.com/fabrica-bayarea/TimeTracker-2026-2)
 
-### Contributions
+Open-source collaborative project developed through the **BayArea** program. My
+contribution is focused primarily on the React frontend.
 
-* React dashboard development;
-* integration with backend API contracts;
-* reusable React components;
-* custom hooks;
-* frontend architecture improvements;
-* responsive interface;
-* keyboard navigation;
-* accessibility improvements;
-* loading, error and empty states;
-* frontend tests with Vitest;
-* Testing Library;
-* technical documentation;
-* refactoring and separation of responsibilities.
+- Dashboard features, reusable components and custom hooks.
+- API contract integration and separation of responsibilities.
+- Responsive UI, keyboard navigation and accessibility improvements.
+- Loading, error and empty states, plus Vitest and Testing Library coverage.
 
-### Frontend structure
+**Stack:** React · Vite · Tailwind CSS · Vitest
 
-```text
-src/
-│
-├── pages/
-├── components/
-├── hooks/
-├── services/
-├── utils/
-├── data/
-│
-└── App.jsx
-```
+## Learning in public
 
-🔗 **Project**
+### [PrimeirosPassos-C-Sharp](https://github.com/CarlosEduardoLemos/PrimeirosPassos-C-Sharp)
 
-https://github.com/fabrica-bayarea/TimeTracker-2026-2
+An evolving study repository documenting my C# learning path through examples, object
+oriented programming, collections, exception handling, LINQ and asynchronous code.
 
----
+I use [Microsoft Learn](https://learn.microsoft.com/) and the
+[official C# documentation](https://learn.microsoft.com/dotnet/csharp/) as primary
+references.
 
-# 🧰 Tech Stack
+Other repositories document coursework, bootcamps and technical experiments involving
+Angular, TypeScript, Java, Spring Boot, Node.js, browser APIs, REST APIs and application
+security. These are learning projects and are intentionally separate from my primary
+portfolio work.
 
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,cs,html,css"/>
-</p>
-
----
-
-## ⚙️ Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask"/>
-</p>
-
-`REST APIs` · `Authentication` · `Authorization` · `RBAC` · `API Integration`
-
----
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
-</p>
-
-`React` · `JavaScript` · `Vite` · `Tailwind CSS` · `Bootstrap` · `Recharts`
-
----
-
-## 🗄️ Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-</p>
-
-`SQLite` · `SQL`
-
----
-
-## 🧪 Testing
-
-`Python unittest` · `Vitest` · `Testing Library`
-
----
-
-## 🔐 Security
-
-`Authentication`
-
-`Authorization`
-
-`Role-Based Access Control`
-
-`Vulnerability Management`
-
-`CISA KEV`
-
-`NVD`
-
-`Application Security`
-
----
-
-## 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
-</p>
-
-Currently strengthening my knowledge in:
-
-* **C#**
-* **.NET**
-* Application Security
-* Secure Software Development
-* CTF challenges
-* security labs
-
-My C# learning repository:
-
-🔗 https://github.com/CarlosEduardoLemos/PrimeirosPassos-C-Sharp
-
-> C#/.NET is currently part of my learning path and should not be interpreted as professional .NET experience.
-
----
-
-# 🎓 Learning Projects
-
-My GitHub also documents my development journey through courses, bootcamps and technical studies.
-
-These projects include practical exposure to:
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,java,spring,nodejs"/>
-</p>
-
-* Angular;
-* TypeScript;
-* Java;
-* Spring Boot;
-* browser APIs;
-* REST APIs;
-* OpenAI API experiments;
-* Application Security.
-
-These repositories represent **learning and experimentation** and are intentionally separated from my primary portfolio projects and professional experience.
-
----
-
-# 🤝 Open Source & Collaborative Development
-
-### TimeTracker — Fábrica Bay Area
-
-Frontend contributions involving:
-
-`React` · `Testing` · `Accessibility` · `Refactoring` · `Documentation`
-
----
-
-### Angular Playground
-
-Contribution involving README improvements and code readability.
-
----
-
-### Universidade Livre — Ciência da Computação
-
-Contribution involving cybersecurity-related educational content.
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosEduardoLemos&theme=github_dark" width="90%" alt="GitHub Profile Details">
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosEduardoLemos&theme=github_dark" height="180">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosEduardoLemos&theme=github_dark" height="180">
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CarlosEduardoLemos/CarlosEduardoLemos/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Dark">
-
-<img src="https://raw.githubusercontent.com/CarlosEduardoLemos/CarlosEduardoLemos/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Light">
-
-</div>
-
----
-
-# 🎯 Current Direction
-
-My goal is to continue growing as a **Software Developer**, combining my experience in technical support with software engineering and security-oriented development.
+## A small geek detail
 
 ```text
 IT Support
@@ -337,33 +103,39 @@ Software Development
     │
     ├── Python / Flask
     ├── React / JavaScript
-    ├── APIs
-    ├── Testing
-    │
-    └── Application Security
+    ├── APIs and testing
+    └── Application security
 ```
 
----
+## GitHub activity
 
-# 📫 Let's Connect
+The contribution snake below is generated by this repository's GitHub Actions workflow.
+It is a visual detail, not a measure of skill or experience.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/">
-<img src="https://img.shields.io/badge/LinkedIn-Carlos_Eduardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosEduardoLemos/CarlosEduardoLemos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosEduardoLemos/CarlosEduardoLemos/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/CarlosEduardoLemos/CarlosEduardoLemos/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+</picture>
 
-<a href="mailto:lemosecarlos@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-lemosecarlos-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</div>
 
-<a href="https://github.com/CarlosEduardoLemos">
-<img src="https://img.shields.io/badge/GitHub-CarlosEduardoLemos-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## Connect
+
+If you would like to discuss software development, application security or
+collaborative projects:
+
+- [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/)
+- [GitHub](https://github.com/CarlosEduardoLemos)
+- [Email](mailto:lemosecarlos@gmail.com)
+
+<div align="center">
+
+<sub>Professional focus, practical projects, continuous learning.</sub>
 
 <br><br>
-
-### Thanks for visiting! 👾
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="600" alt="Mario coding animation">
 
