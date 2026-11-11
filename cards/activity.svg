@@ -27,7 +27,7 @@
     <g class="enter" style="--delay:0.55s"><text x="35" y="41" class="eyebrow accent">GITHUB CONTRIBUTIONS</text>
     <text x="35" y="76" font-size="25" class="title">Activity over the last year</text>
     <text x="35" y="101" font-size="12" class="muted">2025-11-12 – 2026-11-11 UTC | 365 days</text>
-    <path d="M35 116H825" stroke="#4C495D" opacity=".6"/><text x="40" y="151" font-size="30" font-weight="700">390</text>
+    <path d="M35 116H825" stroke="#4C495D" opacity=".6"/><text x="40" y="151" font-size="30" font-weight="700">393</text>
         <text x="40" y="172" font-size="14" class="eyebrow muted">TOTAL CONTRIBUTIONS</text><text x="244" y="151" font-size="30" font-weight="700">66</text>
         <text x="244" y="172" font-size="14" class="eyebrow muted">ACTIVE DAYS</text><text x="448" y="151" font-size="30" font-weight="700">1</text>
         <text x="448" y="172" font-size="14" class="eyebrow muted">CURRENT STREAK</text><text x="652" y="151" font-size="24" font-weight="700">18 Sep +33</text>
@@ -58,7 +58,7 @@
             <text x="656" y="256" font-size="14" text-anchor="middle" class="muted">144</text>
             <text x="656" y="400" font-size="13" text-anchor="middle" class="muted">Sep 26</text><rect x="700" y="327" width="32" height="48" rx="4" fill="#B8A1FF" fill-opacity="0.718" class="bar" style="--delay:1.140s"/>
             <text x="716" y="320" font-size="14" text-anchor="middle" class="muted">62</text>
-            <text x="716" y="400" font-size="13" text-anchor="middle" class="muted">Oct 26</text><rect x="760" y="359" width="32" height="16" rx="4" fill="#B8A1FF" fill-opacity="0.497" class="bar" style="--delay:1.180s"/>
-            <text x="776" y="352" font-size="14" text-anchor="middle" class="muted">20</text>
+            <text x="716" y="400" font-size="13" text-anchor="middle" class="muted">Oct 26</text><rect x="760" y="357" width="32" height="18" rx="4" fill="#B8A1FF" fill-opacity="0.517" class="bar" style="--delay:1.180s"/>
+            <text x="776" y="350" font-size="14" text-anchor="middle" class="muted">23</text>
             <text x="776" y="400" font-size="13" text-anchor="middle" class="muted">Nov 26</text></g>
     </svg>
