@@ -1,24 +1,31 @@
-name: Generate Snake Contribution Grid
-
+name: Generate contribution assets
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: '0 3 * * *'
   workflow_dispatch: {}
   push:
-    branches:
-      - main
+    branches: [main]
+    paths:
+      - 'scripts/render_cards.py'
+      - '.github/workflows/snake.yml'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - name: Generate snake SVGs
+      - name: Generate original snake SVGs
         uses: Platane/snk@v3.1.0
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,7 +34,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         run: |
           cd dist
           git init
@@ -38,5 +45,29 @@ jobs:
           git branch -M output
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push -u origin output --force
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Inter and SVG font subsetting
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-inter fontconfig
+          python -m pip install 'fonttools[woff]>=4.50,<5'
+
+      - name: Refresh contribution JSON and render cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/render_cards.py --refresh
+
+      - name: Commit contribution JSON and cards to main
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/contributions.json cards/
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update profile cards [skip ci]'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
