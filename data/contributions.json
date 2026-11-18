@@ -2,15 +2,11 @@
   "schema_version": 1,
   "source": "github-graphql",
   "username": "CarlosEduardoLemos",
-  "updated_at": "2026-11-17T11:15:44.077952Z",
-  "from": "2025-11-18",
-  "to": "2026-11-17",
+  "updated_at": "2026-11-18T10:48:00.227425Z",
+  "from": "2025-11-19",
+  "to": "2026-11-18",
   "total": 393,
   "days": [
-    {
-      "date": "2025-11-18",
-      "count": 0
-    },
     {
       "date": "2025-11-19",
       "count": 0
@@ -1465,6 +1461,10 @@
     },
     {
       "date": "2026-11-17",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
       "count": 0
     }
   ]
